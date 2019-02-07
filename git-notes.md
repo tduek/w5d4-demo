@@ -9,4 +9,7 @@ Initialize with `git init`
 
 ## Branching
 
+Checkout a new branch with `git checkout -b [branch-name]`
+
+
 ## Remotes
