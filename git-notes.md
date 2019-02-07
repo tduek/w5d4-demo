@@ -13,3 +13,6 @@ Checkout a new branch with `git checkout -b [branch-name]`
 
 
 ## Remotes
+
+`git remote add origin https://github.com/tduek/w5d4-demo.git`
+`git push -u origin master`
